@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class tinhtongcacchuso {
+public class slide30 {
     public static void main (String[] args) {
         int n , soDu , tong = 0;
         Scanner scanner = new Scanner(System.in);

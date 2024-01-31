@@ -1,4 +1,4 @@
-public class inrasonhohon5 {
+public class slide51 {
     public static void main(String[] args) {
         int Sotunhien = 0;
         for (;Sotunhien < 5 ;){

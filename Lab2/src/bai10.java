@@ -15,6 +15,6 @@ public class bai10 {
         
             }
         }
-        System.out.printlns("So lan xuat hien cua" + text + "la:", + count);
+        System.out.println("So lan xuat hien cua" + text + "la:", + count);
     }
 }

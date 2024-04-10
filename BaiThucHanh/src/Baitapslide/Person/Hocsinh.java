@@ -1,4 +1,4 @@
-package Person;
+package Baitapslide.Person;
 
 import java.util.Scanner;
 

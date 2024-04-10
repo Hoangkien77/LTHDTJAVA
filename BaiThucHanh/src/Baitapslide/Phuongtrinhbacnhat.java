@@ -1,3 +1,4 @@
+package Baitapslide;
 import java.util.Scanner;
 
 public class Phuongtrinhbacnhat {  
